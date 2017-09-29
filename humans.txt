@@ -1,0 +1,21 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+/* TEAM */
+Programmer: Mokshad Sakurdeep
+Site: <email, link to a contact form, etc.>
+Twitter: @kush4l
+Location: Helvetia, Mauritius.
+
+                   [...]
+
+/* THANKS */
+Name: name or url
+
+                   [...]
+	
+/* SITE */ 
+Last update: 2017/09/29
+Standards: HTML5, CSS3, Javascript, PHP, Bootstrap 4.0.0-beta, Node.js
+Components: jQuery, Apache Server Configs, jQuery, Modernizr, Normalize.css, font-awesome
+Software: Atom, Git, Brackets
