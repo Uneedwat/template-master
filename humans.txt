@@ -2,10 +2,10 @@
 # The humans responsible & technology colophon
 
 /* TEAM */
-Programmer: Mokshad Sakurdeep
-Site: <email, link to a contact form, etc.>
+Lead Programmer: Mokshad Sakurdeep
+Site: kushal.sakurdeep@gmail.com
 Twitter: @kush4l
-Location: Helvetia, Mauritius.
+Location: Helvetia, Mauritius
 
                    [...]
 

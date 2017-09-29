@@ -1,6 +1,6 @@
-# metro
+# template-master
 
-<About the project>
+This project is intended to have a basis for building responsive websites. It can be used by coders to create a website from scratch or by learners. Each aspect that is used is meant to have a comment for better understanding.
 
 ## Getting Started
 
